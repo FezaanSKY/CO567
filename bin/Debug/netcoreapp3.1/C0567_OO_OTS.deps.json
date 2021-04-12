@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C0567_OO_OTS/1.0.0": {
+        "runtime": {
+          "C0567_OO_OTS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C0567_OO_OTS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

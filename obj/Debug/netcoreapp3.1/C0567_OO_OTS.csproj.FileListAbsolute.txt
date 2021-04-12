@@ -1,0 +1,13 @@
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.exe
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.deps.json
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.runtimeconfig.json
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.runtimeconfig.dev.json
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.dll
+C:\Users\FNA08\source\repos\C0567_OO_OTS\bin\Debug\netcoreapp3.1\C0567_OO_OTS.pdb
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.csprojAssemblyReference.cache
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.AssemblyInfoInputs.cache
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.AssemblyInfo.cs
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.csproj.CoreCompileInputs.cache
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.dll
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.pdb
+C:\Users\FNA08\source\repos\C0567_OO_OTS\obj\Debug\netcoreapp3.1\C0567_OO_OTS.genruntimeconfig.cache
