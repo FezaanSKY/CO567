@@ -30,7 +30,7 @@ namespace C0567_OO_OTS
             while (username.Length > 8)
             {
                 Console.WriteLine("Your username has exceeded the 8 charachter limit.");
-                Console.WriteLine("Please try enetering your username again: ");
+                Console.WriteLine("Please try entering your username again: ");
                 username = Console.ReadLine();
             }
 

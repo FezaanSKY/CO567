@@ -35,7 +35,7 @@ namespace C0567_OO_OTS
             switch (chs)
             {
                 case "1":
-                    Console.WriteLine("Thank you! You have succesfully purchased tickets for your show!");
+                    Console.WriteLine("Thank you! You have successfully purchased tickets for your show!");
                     break;
                 case "2":
                     Console.WriteLine("Your tickets have been cancelled and you have not been charged");
